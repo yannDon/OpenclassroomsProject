@@ -1,0 +1,11 @@
+.champs {
+    display: flex;
+    justify-content: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+    
+}
+#recherche {
+    margin-left: 10px;
+}
